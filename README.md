@@ -1,5 +1,6 @@
 # AiSecLab-Malicious-Dataset-devi
 AiSecLab Malicious Dataset Ödevi Makine Öğrenmesi ile Malicious URL Detect
+
 Veri Ön İşleme Aşamaları:
 
 Veri Kümesinin Yüklenmesi: İlk adım, veri kümesini uygun bir formatta yüklemektir. Veri kümesi, bir CSV (Comma-Separated Values), Excel, SQL veritabanı veya diğer formatlarda olabilir. Veri kümesi, analiz yapacağımız gerçek dünya verilerini içerir.
